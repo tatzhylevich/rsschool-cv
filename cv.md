@@ -13,7 +13,6 @@ Tatsiana Zhylevich
 
 I have been working as a chemical engineer for 9 years. I always open to something new and ready to work on myself. And I love to travel even more, I have already visited 17 countries
 
-==================================================================
 
 ## Skills
 
@@ -26,7 +25,6 @@ I have been working as a chemical engineer for 9 years. I always open to somethi
 * VS Code
 * Adobe Photoshop, Figma
 
-==================================================================
 
 ## Code example
 
@@ -52,14 +50,12 @@ I have been working as a chemical engineer for 9 years. I always open to somethi
                 }
         })
 
-====================================================================
 
 ## Courses
 
 * JavaScript Manual on [LearnJavascript](https://learn.javascript.ru/)
 * course Frontend developer TeachMeSkills 
 
-====================================================================
 
 ## Languages
 
